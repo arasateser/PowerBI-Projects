@@ -2,5 +2,7 @@
 
 This is a practice / portfolio project to get better and more comfortable in PowerBI!
 
-Dashboard of Data-Professional-Survey-Breakdown>
-<img src="https://user-images.githubusercontent.com/43793683/223732131-10e305a1-a7ee-4395-8452-dcc123bf3671.png" width="900" height="600">
+Data-Professional-Survey-Breakdown>
+[Dataset /](https://github.com/balistis/PowerBI-Training-Projects/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
+[PowerBI_File /](https://github.com/balistis/PowerBI-Training-Projects/blob/main/Data%20Professional%20Survey%20Breakdown.pbix)
+[Dashboard](https://prnt.sc/6JC7c2SDKytg)
